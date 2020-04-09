@@ -1,6 +1,7 @@
 # SVD_ImageCluster
 * A image cluster using SVD
-
+using：python3.6/opencv
+need packages:cv2
 * usage: python SVD.py input_image_name output_image_name Singular_Value
 
 * 原图
