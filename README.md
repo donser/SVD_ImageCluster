@@ -1,5 +1,5 @@
 # SVD_ImageCluster
-* A image cluster using SVD   SVD 用于图像压缩
+* A image cluster using SVD  : SVD 用于图像压缩
 
   using：python3.6/opencv
 
